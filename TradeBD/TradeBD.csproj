@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="Classes\ConnectionHelper.cs" />
     <Compile Include="Classes\Test.cs" />
+    <Compile Include="Classes\testvetki.cs" />
     <Compile Include="Controls\OrderItemUserControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
