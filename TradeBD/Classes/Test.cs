@@ -8,6 +8,6 @@ namespace TradeBD.Classes
 {
     internal class Test
     {
-        // сегодня мы поработали и хотим сделать сохранение нашей работы.
+        // sdfgtuiop[]
     }
 }
